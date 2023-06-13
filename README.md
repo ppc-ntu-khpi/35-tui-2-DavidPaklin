@@ -21,3 +21,9 @@
 ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
 ![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
 [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+## Скріншоти з результатами програми
+
+Я обрав завдання на 4 бали, всі дані програма бере з файлу test.dat
+
+![Описание изображения](image/ex1.png)
